@@ -33,7 +33,7 @@
 
 ### 🎥 Video Demonstration  
 Watch UmbraVision in action!  
-![Video Link Placeholder](assets/umbravision.mp4)
+[Watch the UmbraVision Demo](assets/umbravision.mp4)
 
 ---
 
