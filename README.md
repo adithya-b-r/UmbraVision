@@ -32,8 +32,8 @@
 ---
 
 ### 🎥 Video Demonstration  
-Watch UmbraVision in action!  
-[Watch the UmbraVision Demo](https://drive.google.com/file/d/1tyH59ZVvvFghCpP9XA0O2-R3jTXIw7dc/view?usp=sharing)
+Watch UmbraVision in action!
+[![Watch the UmbraVision Demo](https://raw.githubusercontent.com/adithya-b-r/UmbraVision/main/assets/img2.jpg)](https://raw.githubusercontent.com/adithya-b-r/UmbraVision/main/assets/umbravision.mp4)
 
 ---
 
