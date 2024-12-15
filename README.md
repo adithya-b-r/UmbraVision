@@ -33,7 +33,8 @@
 
 ### 🎥 Video Demonstration  
 Watch UmbraVision in action!
-[![Watch the UmbraVision Demo](https://raw.githubusercontent.com/adithya-b-r/UmbraVision/main/assets/thumbnail.png)](https://drive.google.com/file/d/1tyH59ZVvvFghCpP9XA0O2-R3jTXIw7dc/preview)
+
+https://github.com/user-attachments/assets/32b19984-b11d-408a-b18a-9ea88229f774
 
 ---
 
